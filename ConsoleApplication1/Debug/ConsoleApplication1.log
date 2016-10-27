@@ -1,0 +1,37 @@
+﻿  ConsoleApplication1.cpp
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(45): error C2062: type 'double' unexpected
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(45): error C2143: syntax error: missing ')' before ';'
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(46): error C2143: syntax error: missing ';' before '<<'
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(46): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(47): error C2143: syntax error: missing ';' before '>>'
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(47): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(48): error C2143: syntax error: missing ';' before '<<'
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(48): error C2086: 'int cout': redefinition
+  c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(46): note: see declaration of 'cout'
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(49): error C2143: syntax error: missing ';' before '>>'
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(49): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(49): error C2086: 'int cin': redefinition
+  c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(47): note: see declaration of 'cin'
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(50): error C2143: syntax error: missing ';' before '<<'
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(50): error C2086: 'int cout': redefinition
+  c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(46): note: see declaration of 'cout'
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(51): error C2143: syntax error: missing ';' before '>>'
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(51): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(51): error C2086: 'int cin': redefinition
+  c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(47): note: see declaration of 'cin'
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(52): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(52): error C2065: 'b': undeclared identifier
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(52): error C2065: 'a': undeclared identifier
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(52): error C2065: 'c': undeclared identifier
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(53): error C2143: syntax error: missing ';' before '<<'
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(53): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(53): error C2086: 'int cout': redefinition
+  c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(46): note: see declaration of 'cout'
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(54): error C2059: syntax error: 'if'
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(54): error C2143: syntax error: missing ';' before '{'
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(54): error C2447: '{': missing function header (old-style formal list?)
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(68): error C2059: syntax error: 'else'
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(68): error C2143: syntax error: missing ';' before '{'
+c:\users\grade\documents\sdp\consoleapplication1\consoleapplication1\consoleapplication1.cpp(68): error C2447: '{': missing function header (old-style formal list?)
